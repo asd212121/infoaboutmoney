@@ -1,0 +1,64 @@
+header{
+height: 300px;    
+background-color: purple;
+text-align: center;
+color:black;
+padding: 50px;
+font-size: 50px;
+background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612806127_97-p-abstraktnii-fon-svetlii-goluboi-dlya-preze-123.jpg);
+background-size: cover;
+}
+
+body{
+    margin: 0px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    background-image: url(https://thetahealing.net.au/wp-content/uploads/2020/02/06-Copy-scaled.jpeg);
+    width: 100%;
+    padding: 20px;
+}
+
+.block1{
+    font-size: 40px;
+    text-align: justify;
+}
+
+.block2{
+    text-align: center;
+}
+
+.block3{
+    text-align: center;
+}
+
+.block4{
+    text-align:center;
+}
+.block5{
+    text-align: center;
+}
+.block6{
+    text-align: center;
+    background-color:wheat;
+    color: black;
+}
+
+.social img {
+    width: 100%;
+    padding-left: 10px;
+}
+
+.social {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
